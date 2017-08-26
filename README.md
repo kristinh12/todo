@@ -4,7 +4,7 @@ Todoster is a single-page to-do application featuring a fluid user interface tha
 
 Built With:
 
-Ruby on Rails
-JQuery
+Ruby on Rails, 
+JQuery, 
 RSpec
 
